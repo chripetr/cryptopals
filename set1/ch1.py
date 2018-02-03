@@ -4,12 +4,6 @@
 # Convert hex to base64 - set 1/ chall 1 #
 ##########################################
 
-'''
-this chall is just to show us that to not lead
-ourselves in weird paths in crypto we have to operate
-in raw bytes and not in encoded strings (hex or base64...)
-'''
-
 from base64 import b64encode as enc
 from base64 import b64decode as dec
 from binascii import unhexlify as unhex
