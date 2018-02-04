@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-
+# -*- coding: utf-8 -*-
 
 #############################################
 # Implement PKCS#7 padding - set 2/ chall 9 #
