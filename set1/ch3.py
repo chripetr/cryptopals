@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 ###########################################
 # Single-byte XOR cipher - set 1/ chall 3 #

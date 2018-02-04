@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 ################################################
 # Detect single-character XOR - set 1/ chall 4 #

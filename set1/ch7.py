@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: utf-8 -*-
+
 
 ####################################
 # AES in ECB mode - set 1/ chall 7 #

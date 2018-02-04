@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 ##########################################
 # Convert hex to base64 - set 1/ chall 1 #

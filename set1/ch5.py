@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 ################################################
 # Implement repeating-key XOR - set 1/ chall 5 #
